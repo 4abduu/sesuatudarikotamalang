@@ -13,6 +13,7 @@ user_mobile/build/
 user_mobile/.pub-cache/
 user_mobile/**/ios/Pods/
 user_mobile/**/android/.gradle/
+user_mobile/windows/flutter/
 
 # Umum
 .DS_Store
