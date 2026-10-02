@@ -28,3 +28,5 @@ workspace-99848bcf-6075-4a98-a4a7-cb24f7e82409/
 **/.git.backup/
 scratch/
 **/scratch/
+uploads/
+backend/uploads/
